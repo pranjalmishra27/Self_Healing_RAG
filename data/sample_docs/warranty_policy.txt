@@ -1,0 +1,86 @@
+ACME ProDevice X1 — Warranty & Support Policy
+Document Version: 3.2 | Last Updated: January 2025
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1: LIMITED WARRANTY COVERAGE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ACME Corporation ("ACME") warrants the ProDevice X1 ("Product") against defects
+in materials and workmanship for a period of TWO (2) YEARS from the original
+date of purchase by the end-user purchaser ("Warranty Period").
+
+This warranty covers:
+  • Hardware defects in the main unit, battery, and included accessories
+  • Screen defects present at the time of purchase
+  • Manufacturing defects causing the device to fail to function as intended
+  • Internal component failures not caused by user misuse
+
+This warranty does NOT cover:
+  • Physical damage, drops, or impacts
+  • Liquid damage or exposure to moisture
+  • Damage caused by unauthorized modifications or repairs
+  • Normal wear and tear, including battery capacity degradation after 500 charge cycles
+  • Cosmetic damage such as scratches or dents that do not affect functionality
+  • Software issues, viruses, or data loss
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2: HOW TO OBTAIN WARRANTY SERVICE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+To obtain warranty service, customers must:
+  1. Contact ACME Support at support@acme.com or 1-800-ACME-PRO
+  2. Provide proof of purchase (receipt or order confirmation)
+  3. Describe the defect in detail
+  4. Receive a Return Merchandise Authorization (RMA) number
+  5. Ship the product to the ACME service center with the RMA number clearly labeled
+
+ACME will, at its sole discretion, repair or replace the defective product at
+no charge. Replacement products may be new or refurbished. Shipping of the
+repaired/replaced unit back to the customer is covered by ACME.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3: EXTENDED WARRANTY — ACME PROTECT+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ACME offers an optional extended warranty program called ACME Protect+:
+
+  Basic Plan ($49/year): Extends standard warranty by 1 additional year (total 3 years)
+  Plus Plan ($89/year): Extends warranty by 2 years AND adds accidental damage coverage
+  Premium Plan ($129/year): All Plus benefits + priority 24-hour support + free annual check-up
+
+ACME Protect+ must be purchased within 30 days of the original product purchase.
+Accidental damage coverage includes screen replacements ($29 deductible) and
+water damage repairs ($49 deductible).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4: INTERNATIONAL WARRANTY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The standard 2-year warranty is valid in all countries where ACME operates, including:
+USA, Canada, United Kingdom, Germany, France, Japan, Australia, and India.
+
+Customers in countries not listed above receive a 1-year limited warranty.
+International shipping for warranty returns may require the customer to cover
+outbound shipping costs; ACME covers return shipping.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5: LIMITATION OF LIABILITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TO THE EXTENT PERMITTED BY LAW, THIS WARRANTY IS THE EXCLUSIVE REMEDY FOR DEFECTS
+IN THE PRODUCT. ACME'S LIABILITY IS LIMITED TO THE ORIGINAL PURCHASE PRICE.
+ACME IS NOT LIABLE FOR INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES.
+
+Some jurisdictions do not allow limitations on implied warranties or exclusion of
+incidental or consequential damages. In such cases, the above limitations may not
+apply to you.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONTACT INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ACME Customer Support
+Email: support@acme.com
+Phone: 1-800-ACME-PRO (1-800-226-3776)
+Hours: Monday–Friday, 9 AM – 6 PM EST
+Website: https://support.acme.com/warranty

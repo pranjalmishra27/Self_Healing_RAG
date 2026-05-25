@@ -1,0 +1,111 @@
+ACME ProDevice X1 — Technical Specifications & User Guide
+Document Version: 2.1 | Released: December 2024
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TECHNICAL SPECIFICATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DISPLAY
+  Type: 6.7-inch AMOLED, 120Hz adaptive refresh rate
+  Resolution: 2800 × 1260 pixels (460 PPI)
+  Brightness: 1200 nits peak, 2000 nits HDR peak
+  Protection: Corning Gorilla Glass Victus 2
+
+PROCESSOR
+  Chipset: ACME Orion A17 (4nm process)
+  CPU: 8-core (4× performance + 4× efficiency), up to 3.8 GHz
+  GPU: ACME AX Graphics 6-core
+  Neural Engine: 16-core, 35 TOPS
+
+MEMORY & STORAGE
+  RAM: 8 GB (base) / 12 GB (Pro model)
+  Storage: 128 GB / 256 GB / 512 GB (UFS 3.1)
+  Expandable storage: Not supported
+
+CAMERA SYSTEM
+  Main camera: 50 MP, f/1.8, OIS, 4K/60fps video
+  Ultra-wide: 12 MP, f/2.2, 120° field of view
+  Telephoto: 10 MP, f/2.9, 5× optical zoom
+  Front camera: 12 MP, f/2.2, Face ID support
+  Video: Up to 8K/24fps (main camera only)
+
+BATTERY
+  Capacity: 4800 mAh
+  Charging: 67W wired fast charging (0–100% in 38 minutes)
+  Wireless: 15W Qi2 wireless charging
+  Reverse wireless: 5W
+  Battery life: Up to 26 hours video playback (rated)
+
+CONNECTIVITY
+  5G: Sub-6GHz and mmWave
+  Wi-Fi: 802.11 a/b/g/n/ac/ax (Wi-Fi 6E)
+  Bluetooth: 5.3
+  NFC: Yes
+  USB: USB-C 3.2 Gen 2 (10 Gbps, DisplayPort 2.0 support)
+  SIM: Nano-SIM + eSIM
+
+DIMENSIONS & WEIGHT
+  Height: 160.7 mm
+  Width: 77.6 mm
+  Depth: 8.3 mm
+  Weight: 198 g
+
+OPERATING SYSTEM
+  Ships with: ACME OS 17
+  Guaranteed updates: 4 years of OS updates, 5 years of security patches
+
+SENSORS
+  Face ID, barometer, gyroscope, accelerometer, proximity sensor,
+  ambient light sensor, magnetometer, UWB chip
+
+AUDIO
+  Stereo speakers with Dolby Atmos support
+  3.5mm headphone jack: Not included
+  Bluetooth audio: aptX HD, LDAC, AAC support
+
+COLORS
+  Midnight Black, Arctic White, Ocean Blue, Sunset Gold
+
+IN THE BOX
+  • ProDevice X1 unit
+  • USB-C to USB-C cable (1m, 67W rated)
+  • 67W power adapter
+  • SIM ejection tool
+  • Quick start guide
+  • Warranty documentation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+QUICK START GUIDE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INITIAL SETUP
+1. Insert your SIM card using the provided ejection tool.
+2. Press and hold the power button for 3 seconds to turn on.
+3. Follow the on-screen setup wizard.
+4. Sign in with your ACME account or create a new one.
+5. Enable Face ID for secure authentication.
+
+TRANSFERRING DATA FROM OLD DEVICE
+  - Use the ACME Switch app (iOS/Android) for wireless transfer
+  - Or connect via USB-C cable for wired transfer
+  - iCloud and Google account import is supported
+
+CHARGING
+  - Use only the included 67W adapter for fastest charging
+  - The device supports charging up to 20W from third-party Qi chargers
+  - Avoid charging in extreme temperatures (above 35°C or below 0°C)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RETURN & EXCHANGE POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ACME offers a 30-day return policy for devices purchased directly from ACME or
+authorised retailers:
+
+  • Device must be in original, undamaged condition with all accessories included
+  • Return shipping is free for defective units; customer pays for change-of-mind returns
+  • Refunds are processed within 5-7 business days of receiving the return
+  • Exchanges for a different model are subject to availability
+
+For devices purchased from third-party retailers, the retailer's own return
+policy applies. ACME cannot process returns for third-party purchases.

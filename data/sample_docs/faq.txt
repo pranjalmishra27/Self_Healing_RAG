@@ -1,0 +1,103 @@
+ACME Corporation — Frequently Asked Questions (FAQ)
+Last Updated: February 2025
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ORDERS & SHIPPING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q: How long does standard shipping take?
+A: Standard shipping takes 3–5 business days within the continental US.
+   Express shipping (1–2 business days) is available for an additional $14.99.
+   Same-day delivery is available in select cities (New York, Los Angeles,
+   Chicago, San Francisco, Seattle) for orders placed before 12 PM local time.
+
+Q: Do you offer free shipping?
+A: Yes. Orders over $75 qualify for free standard shipping. ACME Premier
+   members receive free express shipping on all orders.
+
+Q: Can I track my order?
+A: Yes. You will receive a tracking email within 24 hours of shipment.
+   You can also track orders at acme.com/orders using your order number.
+
+Q: Do you ship internationally?
+A: ACME ships to 42 countries. International shipping rates vary by destination
+   and are calculated at checkout. Most international orders arrive in 7–14
+   business days. Import duties and taxes are the responsibility of the recipient.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PAYMENT & PRICING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q: What payment methods are accepted?
+A: ACME accepts Visa, Mastercard, American Express, Discover, PayPal,
+   Apple Pay, Google Pay, and ACME Gift Cards.
+
+Q: Does ACME offer financing?
+A: Yes. ACME partners with Affirm to offer 0% APR financing for 12 months
+   on purchases over $200 (subject to credit approval). 24-month financing
+   is available at 9.99% APR.
+
+Q: Are prices shown inclusive of tax?
+A: Prices shown on the website are before tax. Sales tax is calculated based
+   on your shipping address and displayed at checkout.
+
+Q: Is there a student or educator discount?
+A: Yes. Verified students and educators receive a 15% discount through
+   ACME Education. Verification is done through SheerID. The discount
+   applies to most products excluding already-discounted bundles.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ACCOUNT & PRIVACY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q: How do I reset my password?
+A: Go to acme.com/login and click "Forgot Password". Enter your email address
+   and you will receive a reset link within 5 minutes.
+
+Q: Can I delete my ACME account?
+A: Yes. Go to Account Settings > Privacy > Delete Account. Account deletion
+   is permanent and removes all personal data within 30 days in compliance
+   with GDPR and CCPA regulations. Active subscriptions must be cancelled first.
+
+Q: Does ACME sell my personal data?
+A: No. ACME does not sell personal data to third parties. Data is used only
+   for order fulfilment, product improvement, and personalised recommendations
+   (which you can opt out of in your privacy settings).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TECHNICAL SUPPORT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q: How do I perform a factory reset on my ProDevice X1?
+A: Go to Settings > General > Reset > Erase All Content and Settings.
+   You will be prompted for your Face ID or PIN before the reset proceeds.
+   Ensure you back up your data first using ACME Cloud or a manual backup.
+
+Q: My device is not charging. What should I do?
+A: First, try a different cable and power adapter. If the issue persists,
+   clean the USB-C port gently with a dry toothbrush. If still not charging,
+   restart the device (hold power + volume down for 10 seconds). If none of
+   these work, contact ACME Support for warranty assessment.
+
+Q: How do I check if my device is still under warranty?
+A: Visit acme.com/warranty and enter your device serial number (found in
+   Settings > About > Serial Number). The page will show your warranty
+   expiration date and available service options.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ACME PREMIER MEMBERSHIP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q: What is ACME Premier?
+A: ACME Premier is a subscription membership at $9.99/month or $89/year.
+   Benefits include:
+     • Free express shipping on all orders
+     • Early access to new product launches (48 hours before public)
+     • 10% discount on accessories and peripherals
+     • Priority customer support with dedicated phone line
+     • Exclusive members-only deals and flash sales
+
+Q: Can I cancel ACME Premier at any time?
+A: Yes. You can cancel anytime from Account Settings > Subscriptions.
+   If you cancel within 30 days of subscribing, you receive a full refund.
+   After 30 days, your membership continues until the end of the billing period.
